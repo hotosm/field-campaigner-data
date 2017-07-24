@@ -1,6 +1,8 @@
 feature: amenity
 insights:
-  - FeatureAttributeCompleteness
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
 tags:
     - amenity:
         - post_office
