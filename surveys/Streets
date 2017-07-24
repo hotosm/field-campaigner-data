@@ -1,4 +1,8 @@
 feature: roads
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
 tags:
     - highway:
         - primary
