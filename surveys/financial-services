@@ -4,13 +4,13 @@ insights:
     - CountFeature
     - MapperEngagement
 tags:
-    - amenity:
-        - bank
-        - banking_agent
     - name
-    - operator
+    - amenity:
+        - atm
+        - bank
+        - microfinance
+        - mobile_money_agent
+        - money_transfer
     - opening_hours
-    - addr:city
-    - addr:street
-    - addr:housenumber
-    - description
+    - operator
+    - network
