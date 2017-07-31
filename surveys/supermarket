@@ -1,0 +1,9 @@
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - shop:
+        - supermarket
+    - name
