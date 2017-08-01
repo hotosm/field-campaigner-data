@@ -1,0 +1,16 @@
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - name
+    - amenity:
+        - water_point
+    - operator
+    - "water_point:source"
+    - pump
+        - powered
+        - manual
+        - no
+    - operational_status

@@ -1,0 +1,15 @@
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - name
+    - office:
+        - association
+        - company
+        - lawyer
+        - ngo
+        - political_party
+        - telecommunication
+    - operator

@@ -1,0 +1,15 @@
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - name
+    - man_made:
+        - water_well
+    - operator
+    - pump:
+        - powered
+        - manual
+        - no
+    - operational_status
