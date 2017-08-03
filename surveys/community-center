@@ -1,0 +1,17 @@
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - name
+    - amenity:
+        - community_centre
+    - community_centre:
+        - community_hall
+        - youth_centre
+        - family_centre
+        - cultural_centre
+        - language_centre
+        - events_venue
+    - opening_hours

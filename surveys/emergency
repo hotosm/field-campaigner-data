@@ -1,0 +1,10 @@
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - name
+    - emergency:
+        - fire_hydrant
+        - defibrillator

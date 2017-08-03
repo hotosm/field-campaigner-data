@@ -1,0 +1,14 @@
+feature: amenity
+insights:
+    - FeatureAttributeCompleteness
+    - CountFeature
+    - MapperEngagement
+tags:
+    - name
+    - amenity:
+        - college
+        - kindergarten
+        - school
+        - university
+    - isced:level
+    - capacity
