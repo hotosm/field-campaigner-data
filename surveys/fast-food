@@ -5,7 +5,7 @@ insights:
     - MapperEngagement
 tags:
     - amenity:
-        - cafe
+        - fast_food
     - name
     - cuisine
     - operator
