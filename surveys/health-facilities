@@ -13,7 +13,7 @@ tags:
         - yes
     - operator
     - "health_facility:bed"
-    - "health:facility:level"
+    - "health_facility:level"
     - "health_facility:type"
     - emergency:
         - yes
