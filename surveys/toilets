@@ -17,7 +17,7 @@ tags:
     - "toilets:handwashing":
         - yes
         - no
-    - access
+    - access:
         - yes
         - permissive
         - customers

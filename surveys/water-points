@@ -9,7 +9,7 @@ tags:
         - water_point
     - operator
     - "water_point:source"
-    - pump
+    - pump:
         - powered
         - manual
         - no

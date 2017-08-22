@@ -1,4 +1,4 @@
-feature: amenity
+feature: man_made
 insights:
     - FeatureAttributeCompleteness
     - CountFeature
@@ -13,3 +13,4 @@ tags:
         - manual
         - no
     - operational_status
+
