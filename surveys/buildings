@@ -1,9 +1,11 @@
-feature: amenity
+feature: building
 insights:
     - FeatureAttributeCompleteness
     - CountFeature
     - MapperEngagement
 tags:
+    - building:
+        - yes
     - name
     - building:levels
     - "building:material":
