@@ -10,14 +10,14 @@ tags:
         - doctors
         - hospital
     - "medical_system:western":
-        - yes
+        - 'yes'
     - operator
     - "health_facility:bed"
     - "health_facility:level"
     - "health_facility:type"
     - emergency:
-        - yes
-        - no
+        - 'yes'
+        - 'no'
     - "operator:type"
     - "contact:phone"
     - "addr:full"

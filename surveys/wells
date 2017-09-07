@@ -11,6 +11,6 @@ tags:
     - pump:
         - powered
         - manual
-        - no
+        - 'no'
     - operational_status
 
