@@ -5,7 +5,7 @@ insights:
     - MapperEngagement
 tags:
     - building:
-        - yes
+        - 'yes'
     - name
     - building:levels
     - "building:material":

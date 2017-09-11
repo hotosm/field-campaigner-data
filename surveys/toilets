@@ -15,9 +15,9 @@ tags:
         - bucket
         - chemical
     - "toilets:handwashing":
-        - yes
-        - no
+        - 'yes'
+        - 'no'
     - access:
-        - yes
+        - 'yes'
         - permissive
         - customers
