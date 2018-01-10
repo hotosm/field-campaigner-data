@@ -1,9 +1,0 @@
-feature: amenity
-insights:
-    - FeatureAttributeCompleteness
-    - CountFeature
-    - MapperEngagement
-tags:
-    - name
-    - amenity:
-        - grave_yard
