@@ -1,8 +1,0 @@
-
-feature: natural=tree
-insights:
-    - FeatureAttributeCompleteness
-    - CountFeature
-    - MapperEngagement
-tags:
-    - species
