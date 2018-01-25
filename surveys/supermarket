@@ -1,4 +1,4 @@
-feature: amenity
+feature: shop
 insights:
     - FeatureAttributeCompleteness
     - CountFeature
